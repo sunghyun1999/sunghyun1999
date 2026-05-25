@@ -25,9 +25,11 @@
 **Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,slack,notion&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,notion&theme=dark" />
 </p>
 
 ---
+
+### Algorithm
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun704902)](https://solved.ac/hyun704902)
