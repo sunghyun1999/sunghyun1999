@@ -1,18 +1,33 @@
 ## Software Engineer who builds products that people actually use
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun704902)](https://solved.ac/hyun704902)
+---
 
-<!--
-**sunghyun1999/sunghyun1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stack
 
-Here are some ideas to get you started:
+**Languages & Frameworks**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=java,go,python,spring,fastapi,react&theme=dark" />
+</p>
+
+**Cloud & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform&theme=dark" />
+</p>
+
+**Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb&theme=dark" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,slack,notion&theme=dark" />
+</p>
+
+---
+
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun704902)](https://solved.ac/hyun704902)
