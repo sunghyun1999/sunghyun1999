@@ -1,4 +1,4 @@
-## Hi there 👋
+## Software Engineer who builds products that people actually use
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun704902)](https://solved.ac/hyun704902)
 
